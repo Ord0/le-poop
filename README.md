@@ -1,4 +1,4 @@
 # le-poop
 a shitty repository
-a bit about yourself
-a commit message that describes your changes
+/n a bit about yourself
+/n a commit message that describes your changes
