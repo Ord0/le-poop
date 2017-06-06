@@ -1,2 +1,2 @@
 # le-poop
-just another shitty repository
+a shitty repository
